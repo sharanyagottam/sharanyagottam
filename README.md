@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanyagottam" alt="sharanyagottam" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **JavaScript.**
 
 - 🌱 I’m currently learning **React.js, Node.js and MongoDB.**
 
-- 👯 I’m looking to collaborate on **ReactJs**
+- 👯 I’m looking to collaborate on **ReactJs.**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+- 🤝 I’m looking for help with **Data Structures and Algorithms.**
 
 - 💬 Ask me about **Front-end Development and Java.**
 
-- 📫 How to reach me **sharanyapatelgotham@gmail.com**
+- 📫 Reach me through : **sharanyapatelgotham@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
